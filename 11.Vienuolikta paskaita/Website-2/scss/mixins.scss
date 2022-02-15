@@ -1,0 +1,10 @@
+@mixin img-bg-style{
+    background-size: cover;
+    background-position: center;
+}
+
+@mixin flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

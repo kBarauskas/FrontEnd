@@ -1,0 +1,8 @@
+@media(max-width:768px){
+    .container .images div{
+        width: 100%;
+        &:hover{
+            transform: rotate(0)scale(1.1);
+        }
+    }
+}
